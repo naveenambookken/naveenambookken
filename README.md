@@ -36,6 +36,6 @@
 
 
 [twitter]: https://twitter.com/NaveenAmbookken
-[LinkedIn]: https://www.linkedin.com/in/naveen-ambookken-249941212/
+[LinkedIn]: https://www.linkedin.com/in/naveenambookken/
 [instagram]: https://www.instagram.com/naveenambookken/ 
 
