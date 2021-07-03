@@ -1,4 +1,4 @@
-### [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Naveen Ambookken](https://naveenambookken.com/)
+### [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Naveen Ambookken](https://naveenambookken.netlify.app/)
 
 <br/>
 
