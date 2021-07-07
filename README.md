@@ -36,7 +36,7 @@
 <img alt="MySQL" width="40px" height="40px" src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" />
 <img alt="MongoDB" width="40px" height="40px" src="https://assets-global.website-files.com/6009f6f109d51e60b911ba53/60232c7fee9f278674db9c2c_9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" />
 <img alt="Terminal" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+<img alt="Firebase" width="40px" height="40px" src="https://img.icons8.com/color/452/firebase.png" />
 <br />
 <br />
 
