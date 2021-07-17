@@ -15,7 +15,7 @@
 
 * 🌱 Passionate for learning & exploring new Tech.
 * 👯 I’m currently learning ReactJs
-* 🥅 I’m currently working on my portfolio.
+* 🥅 I’m 
 
 <br/>
 
